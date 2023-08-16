@@ -9,7 +9,8 @@ features :
 * set http header cookie.
 * save session variables into file.
 * load session variables from file.
-* get settings from cookie, random generate cookie "LUA_SESSION_ID" if does not exists.
+* get session from cookie
+* random generate session "LUA_SESSION_ID" and add into cookie if does not exists.
 * set session from query string.
 
 requirement :
