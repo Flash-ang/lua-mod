@@ -3,7 +3,7 @@
 # mod_sess
 lua server session.
 
-feature :
+features :
 
 * add message / debug info into custom log file.
 * set http header cookie.
