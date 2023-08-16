@@ -26,5 +26,5 @@ NOTE : SET HEADER FIRST BEFORE OUTPUT TO USER !!!
 Bug Fixed : 
 Fixed query string "?SESSION" value is true. will regenerate session.
 Fixed query string "?SESSION=" value is empty space. will regenerate session.
-Fixed non-alphanumerics session_id. will regenerate session.
+Fixed non-alphanumeric session_id. will regenerate session.
 Update Set session_id to UPPER case for compatible with windows file system.
