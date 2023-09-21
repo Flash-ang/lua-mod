@@ -5,7 +5,7 @@
 # mod_logfile2
 lua write log into file.
 
-* example log file : 
+- example log file : 
 20230816 18:13:15.688 : app start 
 
 
