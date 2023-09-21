@@ -136,6 +136,12 @@ l.AddLog( 'test2' )
 
 
 ----------
+# example log file : 
+20230816 18:13:15.688 : app start 
+
+
+
+----------
 Windows : 
 
 if no permissions on current folder **
