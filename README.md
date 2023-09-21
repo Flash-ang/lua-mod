@@ -16,13 +16,13 @@ lua server session.
 
 features :
 
-* add message / debug info into custom log file.
+* random generate session "LUA_SESSION_ID" and add into cookie if does not exists.
 * set http header cookie.
+* get session id from cookie.
+* set session id from query string.
 * save session variables into file.
 * load session variables from file.
-* get session from cookie
-* random generate session "LUA_SESSION_ID" and add into cookie if does not exists.
-* set session from query string.
+* add message / debug info into custom log file.
 
 requirement :
 
