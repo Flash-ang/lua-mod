@@ -1,4 +1,7 @@
 -- Copyright (C) TC Ang (flash_ang)
+# lua-mod
+# lua module, use under nginx
+
 
 # mod_sess
 lua server session.
